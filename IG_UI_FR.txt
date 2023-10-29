@@ -126,4 +126,6 @@ IGUI_FR = {
 	IGUI_VehicleNameBoltrs = "Dover Bolt GS",
 	IGUI_VehicleNameSmallCarSwiffer = "Mayflower Raindance Swiffer",
 	IGUI_VehicleName280sport = "Solo 280 GT",
+
+	IGUI_VehicleNameStepVanMailupz = "Chevalier Step Van UPZ",
 }
